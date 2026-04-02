@@ -52,7 +52,7 @@ if __name__ == "__main__":
     sample = "First Citizen"
     encoded = tokenizer.encode(sample)
     decoded = tokenizer.decode(encoded)
-
+   
     print(f"Original : {sample}")
     print(f"Encoded  : {encoded}")
     print(f"Decoded  : {decoded}")
