@@ -210,3 +210,4 @@ level1_tiny_gpt/checkpoints/
 __pycache__/
 *.pyc
 venv/
+level2_finetune/checkpoints/

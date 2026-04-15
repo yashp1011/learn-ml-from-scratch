@@ -1,234 +1,84 @@
-First Citizen:
-Before we proceed any further, hear me speak.
+HAMLET
+by William Shakespeare
 
-All:
-Speak, speak.
+ACT I, SCENE I
 
-First Citizen:
-You are all resolved rather to die than to famish?
+Barnardo: Who's there?
+Francisco: Nay, answer me: stand, and unfold yourself.
+Barnardo: Long live the king!
+Francisco: Barnardo?
+Barnardo: He.
+Francisco: You come most carefully upon your hour.
+Barnardo: 'Tis now struck twelve; get thee to bed, Francisco.
+Francisco: For this relief much thanks: 'tis bitter cold, and I am sick at heart.
+Barnardo: Have you had quiet guard?
+Francisco: Not a mouse stirring.
+Barnardo: Well, good night. If you do meet Horatio and Marcellus, the rivals of my watch, bid them make haste.
+Francisco: I think I hear them. Stand, ho! Who's there?
 
-All:
-Resolved. resolved.
+Horatio: Friends to this ground.
+Marcellus: And liegemen to the Dane.
+Francisco: Give you good night.
+Marcellus: O, farewell, honest soldier: who hath relieved you?
+Francisco: Barnardo has my place. Give you good night.
 
-First Citizen:
-First, you know Caius Marcius is chief enemy to the people.
+Marcellus: Holla! Barnardo!
+Barnardo: Say, what, is Horatio there?
+Horatio: A piece of him.
+Barnardo: Welcome, Horatio: welcome, good Marcellus.
+Marcellus: What, has this thing appear'd again to-night?
+Barnardo: I have seen nothing.
+Marcellus: Horatio says 'tis but our fantasy, and will not let belief take hold of him touching this dreaded sight, twice seen of us: therefore I have entreated him along with us to watch the minutes of this night; that if again this apparition come, he may approve our eyes and speak to it.
+Horatio: Tush, tush, 'twill not appear.
+Barnardo: Sit down awhile; and let us once again assail your ears, that are so fortified against our story what we have two nights seen.
+Horatio: Well, sit we down, and let us hear Barnardo speak of this.
 
-All:
-We know't, we know't.
+Barnardo: Last night of all, when yond same star that's westward from the pole had made his course to illume that part of heaven where now it burns, Marcellus and myself, the bell then beating one--
 
-First Citizen:
-Let us kill him, and we'll have corn at our own price.
-Is't a verdict?
+Marcellus: Peace, break thee off; look, where it comes again!
+Barnardo: In the same figure, like the king that's dead.
+Marcellus: Thou art a scholar; speak to it, Horatio.
+Barnardo: Looks it not like the king? mark it, Horatio.
+Horatio: Most like: it harrows me with fear and wonder.
+Barnardo: It would be spoke to.
+Marcellus: Question it, Horatio.
+Horatio: What art thou that usurp'st this time of night, together with that fair and warlike form in which the majesty of buried Denmark did sometimes march? by heaven I charge thee, speak!
+Marcellus: It is offended.
+Barnardo: See, it stalks away!
+Horatio: Stay! speak, speak! I charge thee, speak!
+Marcellus: 'Tis gone, and will not answer.
+Barnardo: How now, Horatio! you tremble and look pale: is not this something more than fantasy? What think you on't?
+Horatio: Before my God, I might not this believe without the sensible and true avouch of mine own eyes.
+Marcellus: Is it not like the king?
+Horatio: As thou art to thyself: such was the very armour he had on when he the ambitious Norway combated; so frown'd he once, when, in an angry parle, he smote the sledded Polacks on the ice. 'Tis strange.
+Marcellus: Thus twice before, and jump at this dead hour, with martial stalk hath he gone by our watch.
+Horatio: In what particular thought to work I know not; but in the gross and scope of my opinion, this bodes some strange eruption to our state.
+Marcellus: Good now, sit down, and tell me, he that knows, why this same strict and most observant watch so nightly toils the subject of the land, and why such daily cast of brazen cannon, and foreign mart for implements of war; why such impress of shipwrights, whose sore task does not divide the Sunday from the week; what might be toward, that this sweaty haste doth make the night joint-labourer with the day: who is't that can inform me?
+Horatio: That can I; at least, the whisper goes so. Our last king, whose image even but now appear'd to us, was, as you know, by Fortinbras of Norway, thereto prick'd on by a most emulate pride, dared to the combat; in which our valiant Hamlet did slay this Fortinbras; who by a seal'd compact, well ratified by law and heraldry, did forfeit, with his life, all those his lands which he stood seized of, to the conqueror: against the which, a moiety competent was gaged by our king; which had return'd to the inheritance of Fortinbras, had he been vanquisher; as, by the same covenant, and carriage of the article design'd, his fell to Hamlet. Now, sir, young Fortinbras, of unimproved mettle hot and full, hath in the skirts of Norway here and there shark'd up a list of lawless resolutes, for food and diet, to some enterprise that hath a stomach in't; which is no other-- as it doth well appear unto our state-- but to recover of us, by strong hand and terms compulsatory, those foresaid lands so by his father lost: and this, I take it, is the main motive of our preparations, the source of this our watch and the chief head of this post-haste and romage in the land.
+Barnardo: I think it be no other but e'en so: well may it sort that this portentous figure comes armed through our watch; so like the king that was and is the question of these wars.
+Horatio: A mote it is to trouble the mind's eye. In the most high and palmy state of Rome, a little ere the mightiest Julius fell, the graves stood tenantless and the sheeted dead did squeak and gibber in the Roman streets: as stars with trains of fire and dews of blood, disasters in the sun; and the moist star upon whose influence Neptune's empire stands was sick almost to doomsday with eclipse: and even the like precurse of fierce events, as harbingers preceding still the fates and prologue to the omen coming on, have heaven and earth together demonstrated unto our climatures and countrymen.
 
-All:
-No more talking on't; let it be done: away, away!
+ACT I, SCENE II
 
-Second Citizen:
-One word, good citizens.
-
-First Citizen:
-We are accounted poor citizens, the patricians good.
-What authority surfeits on would relieve us: if they
-would yield us but the superfluity, while it were
-wholesome, we might guess they relieved us humanely;
-but they think we are too dear: the leanness that
-afflicts us, the object of our misery, is as an
-inventory to particularise their abundance; our
-sufferance is a gain to them. Let us revenge this with
-our pikes, ere we become rakes: for the gods know I
-speak this in hunger for bread, not in thirst for revenge.
-
-Second Citizen:
-Would you proceed especially against Caius Marcius?
-
-All:
-Against him first: he's a very dog to the commonalty.
-
-Second Citizen:
-Consider you what services he has done for his country?
-
-First Citizen:
-Very well; and could be content to give him good
-report fort, but that he pays himself with being proud.
-
-All:
-Nay, but speak not maliciously.
-
-First Citizen:
-I say unto you, what he hath done famously, he did
-it to that end: though soft-conscienced men can be
-content to say it was for his country he did it to
-please his mother and to be partly proud; which he
-is, even till the altitude of his virtue.
-
-Second Citizen:
-What he cannot help in his nature, you account a
-vice in him. You must in no way say he is covetous.
-
-First Citizen:
-If I must not, I need not be barren of accusations;
-he hath faults, with surplus, to tire in repetition.
-What shouts are these? The other side o' the city
-is risen: why stay we prating here? to the Capitol!
-
-All:
-Come, come.
-
-First Citizen:
-Soft! who comes here?
-
-Second Citizen:
-Worthy Menenius Agrippa; one that hath always loved
-the people.
-
-First Citizen:
-He's one honest enough: would all the rest were so!
-
-Menenius:
-What work's, my countrymen, in hand? where go you
-with bats and clubs? The matter? Speak, I pray you.
-
-First Citizen:
-Our business is not unknown to the senate; they have
-had inkling this fortnight what we intend to do,
-which now we'll show 'em in deeds. They say poor
-suitors have strong breaths: they shall know we
-have strong arms too.
-
-Menenius:
-Why, masters, my good friends, mine honest neighbours,
-Will you undo yourselves?
-
-First Citizen:
-We cannot, sir, we are undone already.
-
-Menenius:
-I tell you, friends, most charitable care
-Have the patricians of you. For your wants,
-Your suffering in this dearth, you may as well
-Strike at the heaven with your staves as lift them
-Against the Roman state, whose course will on
-The way it takes, cracking ten thousand curbs
-Of more strong link asunder than can ever
-Appear in your impediment. For the dearth,
-The gods, not the patricians, make it, and
-Your knees to them, not arms, must help. Alack,
-You are transported by calamity
-Thither where more attends you, and you slander
-The helms o' the state, who care for you like fathers,
-When you curse them as enemies.
-
-First Citizen:
-Care for us! True, indeed! They ne'er cared for us
-yet: suffer us to famish, and their store-houses
-crammed with grain; make edicts for usury, to
-support usurers; repeal daily any wholesome act
-established against the rich, and provide more
-piercing statutes daily, to chain up and restrain
-the poor. If the wars eat us not up, they will;
-and there's all the love they bear us.
-
-Menenius:
-Either you must confess yourselves wondrous malicious,
-Or be accused of folly. I shall tell you a pretty tale:
-it may be you have heard it; but, since it serves my purpose,
-I will venture to scale 't a little more.
-
-First Citizen:
-Well, I'll hear it, sir: yet you must not think to
-fob off our disgrace with a tale: but, an 't please
-you, deliver.
-
-Menenius:
-There was a time when all the body's members
-Rebell'd against the belly, thus accused it:
-That only like a gulf it did remain
-I' the midst o' the body, idle and unactive,
-Still cupboarding the viand, never bearing
-Like labour with the rest, where the other instruments
-Did see and hear, devise, instruct, walk, feel,
-And, mutually participate, did minister
-Unto the appetite and affection common
-Of the whole body. The belly answer'd--
-
-First Citizen:
-Well, sir, what answer made the belly?
-
-Menenius:
-Sir, I shall tell you. With a kind of smile,
-Which ne'er came from the lungs, but even thus--
-For, look you, I may make the belly smile
-As well as speak--it tauntingly replied
-To the discontented members, the mutinous parts
-That envied his receipt; even so most fitly
-As you malign our senators for that
-They are not such as you.
-
-First Citizen:
-Your belly's answer? What!
-The kingly-crowned head, the vigilant eye,
-The counsellor heart, the arm our soldier,
-Our steed the leg, the tongue our trumpeter.
-With other muniments and petty helps
-In this our fabric, if that they--
-
-Menenius:
-What then? 'Fore me, this fellow speaks! What then?
-
-First Citizen:
-Should by the cormorant belly be restrain'd,
-Who is the sink o' the body,--
-
-Menenius:
-Well, what then?
-
-First Citizen:
-The former agents, if they did complain,
-What could the belly answer?
-
-Menenius:
-I will tell you
-If you'll bestow a small of what you have little,
-Patience awhile, you'll hear the belly's answer.
-
-First Citizen:
-Ye're long about it.
-
-Menenius:
-Note me this, good friend;
-Your most grave belly was deliberate,
-Not rash like his accusers, and thus answer'd:
-'True is it, my incorporate friends,' quoth he,
-'That I receive the general food at first,
-Which you do live upon; and fit it is,
-Because I am the store-house and the shop
-Of the whole body: but, if you do remember,
-I send it through the rivers of your blood,
-Even to the court, the heart, to the seat o' the brain;
-And, through the cranks and offices of man,
-The strongest nerves and small inferior veins
-From me receive that natural competency
-Whereby they live: and though that all at once,
-You, my good friends,'--this says the belly, mark me,--
-
-First Citizen:
-Ay, sir; well, well.
-
-Menenius:
-'Though all at once cannot
-See what I do deliver out to each,
-Yet I can make my audit up, that all
-From me do back receive the flour of all,
-And leave me but the bran.' What say you to't?
-
-First Citizen:
-It was an answer: how apply you this?
-
-Menenius:
-The senators of Rome are this good belly,
-And you the mutinous members; for examine
-Their counsels and their cares, digest things rightly
-Touching the weal o' the common, you shall find
-No public benefit which you receive
-But it proceeds or comes from them to you
-And no way from yourselves.
+King: Though yet of Hamlet our dear brother's death the memory be green, and that it us befitted to bear our hearts in grief and our whole kingdom to be contracted in one brow of woe, yet so far hath discretion fought with nature that we with wisest sorrow think on him, together with remembrance of ourselves. Therefore our sometime sister, now our queen, the imperial jointress to this warlike state, have we, as 'twere with a defeated joy, with an auspicious and a dropping eye, with mirth in funeral and with dirge in marriage, in equal scale weighing delight and dole, taken to wife: nor have we herein barr'd your better wisdoms, which have freely gone with this affair along. For all, our thanks.
+Hamlet: O, that this too too solid flesh would melt, thaw and resolve itself into a dew! Or that the Everlasting had not fix'd his canon 'gainst self-slaughter! O God! God! How weary, stale, flat and unprofitable, seem to me all the uses of this world! Fie on't! ah fie! 'tis an unweeded garden, that grows to seed; things rank and gross in nature possess it merely. That it should come to this! But two months dead: nay, not so much, not two: so excellent a king; that was, to this, Hyperion to a satyr; so loving to my mother that he might not beteem the winds of heaven visit her face too roughly. Heaven and earth! Must I remember? why, she would hang on him, as if increase of appetite had grown by what it fed on: and yet, within a month-- let me not think on't-- Frailty, thy name is woman!-- A little month, or ere those shoes were old with which she follow'd my poor father's body, like Niobe, all tears:-- why she, even she-- O, God! a beast, that wants discourse of reason, would have mourn'd longer-- married with my uncle, my father's brother, but no more like my father than I to Hercules: within a month: ere yet the salt of most unrighteous tears had left the flushing in her gallied eyes, she married. O, most wicked speed, to post with such dexterity to incestuous sheets! It is not nor it cannot come to good: but break, my heart; for I must hold my tongue.
+Horatio: Hail to your lordship!
+Hamlet: I am glad to see you well: Horatio,-- or I do forget myself.
+Horatio: The same, my lord, and your poor servant ever.
+Hamlet: Sir, my good friend; I'll change that name with you: and what make you from Wittenberg, Horatio?
+Horatio: A truant disposition, good my lord.
+Hamlet: I would not hear your enemy say so, nor shall you do mine ear that violence, to make it truster of your own report against yourself: I know you are no truant. But what is your affair in Elsinore?
+Horatio: My lord, I came to see your father's funeral.
+Hamlet: I pray thee, do not mock me, fellow-student; I think it was to see my mother's wedding.
+Horatio: Indeed, my lord, it follow'd hard upon.
+Hamlet: Thrift, thrift, Horatio! the funeral baked meats did coldly furnish forth the marriage tables. Would I had met my dearest foe in heaven or ever I had seen that day, Horatio! My father!-- methinks I see my father.
+Horatio: Where, my lord?
+Hamlet: In my mind's eye, Horatio.
+Horatio: I saw him once; he was a good king.
+Hamlet: He was a man, take him for all in all, I shall not look upon his like again.
+Horatio: My lord, I think I saw him yesternight.
+Hamlet: Saw? who?
+Horatio: My lord, the king your father.
+Hamlet: The king my father!
+Horatio: Season your admiration for a while with an attent ear, till I may deliver, upon the witness of these gentlemen, this marvel to you.
+Hamlet: For God's love, let me hear.
