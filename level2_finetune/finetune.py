@@ -118,6 +118,7 @@ prompts = [
 
 for prompt in prompts:
     inputs = tokenizer.encode(prompt, return_tensors="pt")
+    attention_mask = torch.ones(inputs.shape, dtype=torch.long)
     with torch.no_grad():
         outputs = model.generate(
             inputs,
